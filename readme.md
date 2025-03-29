@@ -27,7 +27,11 @@ A custom katana weapon for fivem!
 ```
 - Drop the next code in `qb-weapons/config.lua`
 ```lua
-    ['weapon_katana'] 	             = 0.15,
+    ['weapon_thermalkatana'] 	             = 0.15,
+```
+- Add the weapon name in `qb-smallresources/client/weapdraw.lua`
+```lua
+    `weapon_thermalkatana`
 ```
 # Add the next code to your `BackItems.lua` [devyn-backitems](https://github.com/devin-monro/devyn-backitems) script (OPTIONAL)
 ```lua

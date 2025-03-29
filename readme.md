@@ -42,3 +42,5 @@ A custom katana weapon for fivem!
         z_rotation = 180.0,
     },
 ```
+# Credits
+- [bobodori](https://www.gta5-mods.com/users/bobodori) 
